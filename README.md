@@ -1,359 +1,94 @@
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:312E81,70:7C3AED,100:2563EB&text=Hugo%20Thibault&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Data%20and%20AI&descSize=18&descAlignY=56&animation=fadeIn"
-    alt="Hugo Thibault"
-  />
-</p> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,50:EA580C,100:F97316&text=Hugo%20Thibault&fontColor=FFFFFF&fontSize=60&desc=Computer%20Engineering%20Student%20%7C%20Software%20%26%20Data&descSize=20&animation=fadeIn" alt="Hugo Thibault" />
 
-<div align="center">
+# 👋 Hi there, I'm Hugo!
 
-<img
- src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Software+Engineering;Full+Stack+Development;Data+Analytics+and+AI;Learning+by+Building"
- alt="Typing SVG"
-/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&width=850&lines=Computer+Engineering+Student;Software+Engineering+%26+Full+Stack;Data+Analytics+%26+Applied+AI;Building+scalable+solutions)](https://git.io/typing-svg)
 
-</div>
+I am a Computer Engineering student based in **Madrid, Spain** 📍. I enjoy building practical projects, learning modern technologies, and improving the structure, readability, and usefulness of the software I develop.
 
-<br>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Focused-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20%26%20AI-Learning-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Madrid-Spain-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-</div>
-
-<br>
-
-<div align="center">
-
+<p align="left">
   <a href="https://github.com/HugoThibaultM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HugoThibaultM-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-</div>
-
-<br>
-
----
-
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  I am a Computer Engineering student focused on software engineering, full stack development,
-  data analytics and applied artificial intelligence.
+  <a href="https://www.linkedin.com/in/hugothibault/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EA580C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hugothibault@email.com">
+    <img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="center">
-  I enjoy building practical projects, learning modern technologies and improving the structure,
-  readability and usefulness of the software I develop.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=HugoThibaultM&label=Profile%20views&color=F97316&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/HugoThibaultM?label=Followers&style=flat-square&color=EA580C" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/HugoThibaultM?label=Stars&style=flat-square&color=C2410C" alt="Stars" />
 </p>
 
-<br>
+---
 
-<div align="center">
+## 🚀 About Me & Focus Areas
 
-| Focus Area           | Description                                                        |
-| -------------------- | ------------------------------------------------------------------ |
-| Software Engineering | Clean code, maintainable solutions and problem solving             |
-| Frontend Development | React, TypeScript, Vite and Next.js                                |
-| Backend Development  | Node.js, Express, APIs and databases                               |
-| Data & AI            | Python, data analysis, automation and applied AI                   |
-| Systems Thinking     | Linux, networks, distributed systems and real-world engineering    |
+- 💻 **Software Engineering:** Clean code, maintainable solutions, and problem solving.
+- 🌐 **Full Stack Web:** React, TypeScript, Vite, Next.js, Node.js, and Express.
+- 📊 **Data & AI:** Python data analysis, automation workflows, and applied AI tools.
+- ⚙️ **Systems Thinking:** Linux, networks, distributed systems, and real-world engineering.
 
-</div>
-
-<br>
-
-<div align="center">
-
-### Open To
-
-<img src="https://img.shields.io/badge/Internships-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software%20Engineering-4F46E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%26%20Data-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack-9333EA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Product%20Engineering-1D4ED8?style=for-the-badge" />
-
-</div>
+**Currently Open To:** 
+<img src="https://img.shields.io/badge/Internships-F97316?style=flat-square" /> <img src="https://img.shields.io/badge/Software%20Engineering-EA580C?style=flat-square" /> <img src="https://img.shields.io/badge/AI%20%26%20Data-C2410C?style=flat-square" />
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<br>
+**Languages & Core**  
+<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,html,css&theme=dark" />
 
-<h3 align="center">Languages</h3>
+**Frontend & Backend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express&theme=dark" />
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,html,css&theme=dark" />
-
-</div>
-
-<br>
-
-<h3 align="center">Frontend</h3>
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite&theme=dark" />
-
-</div>
-
-<br>
-
-<h3 align="center">Backend & Databases</h3>
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql&theme=dark" />
-
-</div>
-
-<br>
-
-<h3 align="center">Tools</h3>
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
-
-</div>
+**Databases & Tools**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,graphql,git,github,linux,vscode,postman&theme=dark" />
 
 ---
 
-<h2 align="center">AI / Data Skills</h2>
+## 📈 AI & Data Skills Overview
 
-<div align="center">
-
-| Area            | Level                | Details                                                          |
-| --------------- | -------------------- | ---------------------------------------------------------------- |
-| Python for Data | Intermediate         | Data cleaning, CSV processing and basic analytics                |
-| Pandas          | Intermediate         | Dataframes, transformations and calculated metrics               |
-| Matplotlib      | Basic / Intermediate | Data visualization and simple charts                             |
-| Applied AI      | Learning             | Practical use of AI tools for problem solving and development    |
-| Automation      | Learning             | Scripts and workflows to reduce manual work                      |
-
-</div>
+| Skill Area | Proficiency | Focus & Details |
+| :--- | :--- | :--- |
+| **Python** | Intermediate | Data cleaning, CSV processing, script automation |
+| **Pandas** | Intermediate | Dataframes, transformations, calculated metrics |
+| **Matplotlib** | Basic/Int. | Data visualization, plotting and simple charts |
+| **Applied AI** | Learning | Practical use of LLMs for problem solving |
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+## 🏆 Featured Projects
 
-<br>
+> **[Star Wars Explorer](https://github.com/HugoThibaultM/Star-Wars)**  
+> *Next.js, React, TypeScript, Axios, CSS*  
+> Frontend application built with Next.js (App Router) that consumes the Star Wars API (SWAPI) to browse films and characters. Features dynamic routes, reusable components, and search functionality.
 
-<details>
-<summary><b>Star Wars Explorer — Next.js & TypeScript Web Application</b></summary>
+> **[Football Data Analysis](https://github.com/HugoThibaultM/football-data-analysis)**  
+> *Python, Pandas, Matplotlib, CSV*  
+> Data analytics project focused on processing football player statistics. Applies a practical workflow: loading data, cleaning it, calculating new performance metrics (like goal contributions), and exporting results.
 
-<br>
-
-Frontend application built with Next.js (App Router) that consumes the Star Wars API (SWAPI) to browse films and characters, with dynamic routes, reusable components and a search feature.
-
-<br>
-
-| Category   | Details                                                                       |
-| ---------- | ----------------------------------------------------------------------------- |
-| Stack      | Next.js, React, TypeScript, Axios, CSS                                        |
-| Goal       | Consume the Star Wars API (SWAPI) and display dynamic content                 |
-| Learning   | Next.js App Router, dynamic routes, components and HTTP requests with Axios   |
-| Repository | <a href="https://github.com/HugoThibaultM/Star-Wars" target="_blank">View repository</a> |
-
-<br>
-
-This project helped me practice Next.js, TypeScript, API integration with Axios and frontend organization through a visual and interactive interface.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Football Data Analysis — Python Analytics Project</b></summary>
-
-<br>
-
-Data analysis project focused on processing football player statistics, calculating goal contributions and generating useful metrics.
-
-<br>
-
-| Category   | Details                                                                       |
-| ---------- | ----------------------------------------------------------------------------- |
-| Stack      | Python, Pandas, Matplotlib, CSV                                               |
-| Goal       | Analyze sports data and calculate performance indicators                      |
-| Learning   | Data cleaning, new metrics, sorting and CSV export                            |
-| Repository | <a href="https://github.com/HugoThibaultM/football-data-analysis">View repository</a> |
-
-<br>
-
-This project applies a simple but practical analytics workflow: loading data, cleaning it, calculating new columns and exporting the final results.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Computer Engineering Practice Projects</b></summary>
-
-<br>
-
-Academic projects related to web development, programming, databases, systems and software engineering.
-
-<br>
-
-| Area       | Technologies                                                                  |
-| ---------- | ----------------------------------------------------------------------------- |
-| Frontend   | React, TypeScript, Next.js                                                    |
-| Backend    | Node.js, Express, Java                                                        |
-| Data       | Python, Pandas, MySQL, MongoDB                                                |
-| Systems    | Linux, networks and distributed systems                                       |
-| Repository | <a href="https://github.com/HugoThibaultM?tab=repositories">View repositories</a> |
-
-<br>
-
-These projects reflect my learning process across different areas of Computer Engineering, from application development to systems and data analysis.
-
-</details>
+> **[Computer Engineering Practice](https://github.com/HugoThibaultM?tab=repositories)**  
+> *Java, Python, C++, MySQL, Linux*  
+> A collection of academic projects reflecting my learning process across different areas of Computer Engineering, from algorithms and data structures to database design and systems architecture.
 
 ---
 
-<h2 align="center">Currently Learning</h2>
+## 📊 GitHub Analytics
 
-<br>
-
-<div align="center">
-
-| Topic               | Objective                                                  |
-| ------------------- | ---------------------------------------------------------- |
-| React & TypeScript  | Build better structured frontend applications              |
-| Next.js             | Develop modern full stack web applications                 |
-| Python & Data       | Apply data analysis to real-world use cases                |
-| GraphQL             | Understand modern API consumption                          |
-| Applied AI          | Use artificial intelligence to solve practical problems    |
-
-</div>
-
----
-
-<h2 align="center">GitHub Analytics</h2>
-
-<br>
-
-<div align="center">
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api?username=HugoThibaultM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB"
- alt="GitHub Stats"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoThibaultM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB"
- alt="Top Languages"
-/>
-
-</div>
-
-<!--
-SECCIONES PARA AÑADIR EN EL FUTURO
-
-CERTIFICATIONS:
-No incluyo certificaciones visibles por ahora para evitar poner información no confirmada.
-Cuando tengas certificaciones reales, puedes añadir algo así:
-
----
-
-<h2 align="center">Certifications</h2>
-
-<br>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/AWS-Certification%20Name-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Certification%20Name-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Certification%20Name-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</div>
-
----
-
-PORTFOLIO:
-No incluyo botón de Portfolio porque todavía no hay una URL real de portfolio personal.
-Cuando tengas una web publicada, añade algo así en la zona de botones superiores:
-
-<a href="https://TU-WEB.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-CODING PROFILES:
-No incluyo LeetCode, HackerRank, CodeChef o GeeksforGeeks porque no tengo tus enlaces reales.
-Cuando tengas perfiles reales, puedes añadir:
-
----
-
-<h2 align="center">Coding Profiles</h2>
-
-<br>
-
-<div align="center">
-
-  <a href="URL_REAL_DE_LEETCODE" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-
-  <a href="URL_REAL_DE_HACKERRANK" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-  </a>
-
-</div>
-
----
-
-CONTRIBUTION SNAKE:
-No incluyo la animación de la serpiente porque necesita una GitHub Action configurada.
-Si no existe esa configuración, aparece como imagen rota.
-
-GITHUB TROPHIES / STREAK / ACTIVITY GRAPH:
-No los incluyo para evitar sobrecargar el README.
-Además, dependen de servicios externos que a veces fallan o tardan en cargar.
--->
-
----
-
-<h2 align="center">Contact</h2>
-
-<div align="center">
-
-  <a href="https://github.com/HugoThibaultM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HugoThibaultM-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-
-<b>Building software with curiosity, consistency and an engineering mindset.</b>
-  <div align="center">
-  <img src="https://github.com/user-attachments/assets/496a6bc4-7321-4659-bdc2-21bd4e1e56bb"  width="300" />
-    </div>
-
-</div>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563EB,35:7C3AED,70:6D28D9,100:0F172A"
-    alt="Footer"
-  />
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HugoThibaultM&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=EA580C&text_color=E5E7EB" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoThibaultM&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E5E7EB" alt="Top Languages" />
 </p>
+
+---
+
+<div align="center">
+  <i>Building software with curiosity, consistency and an engineering mindset.</i>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F97316,50:EA580C,100:111827" alt="Footer" />
