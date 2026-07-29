@@ -1,5 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,50:EA580C,100:F97316&text=Hugo%20Thibault&fontColor=FFFFFF&fontSize=60&desc=Computer%20Engineering%20Student%20%7C%20Motorsport%20Data%20%26%20Telemetry&descSize=20&animation=fadeIn" alt="Hugo Thibault" />
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:111827,50:EA580C,100:F97316&amp;text=Hugo%20Thibault&amp;fontColor=FFFFFF&amp;fontSize=60&amp;desc=Computer%20Engineering%20Student%20%7C%20Software%20and%20Data&amp;descSize=20&amp;animation=fadeIn" alt="Hugo Thibault" />
+</p>
 # ðŸ‘‹ Hi there, I'm Hugo!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&width=850&lines=Computer+Engineering+Student;Motorsport+Telemetry+Analyst;Simracing+Pro+%7C+Setup+Optimization;Cybersecurity+%26+Network+Defense)](https://git.io/typing-svg)
@@ -10,7 +11,7 @@ I am a final-year **Computer Engineering** student based in **Madrid, Spain** ðŸ
   <a href="https://github.com/HugoThibaultM" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/hugothibault/" target="_blank">
+  <a href=target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EA580C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hugothmc@gmail.com">
