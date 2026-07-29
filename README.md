@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,50:EA580C,100:F97316&text=Hugo%20Thibault&fontColor=FFFFFF&fontSize=60&desc=Computer%20Engineering%20Student%20%7C%20Cybersecurity%20%26%20Motorsport%20Data&descSize=20&animation=fadeIn" alt="Hugo Thibault" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,50:EA580C,100:F97316&text=Hugo%20Thibault&fontColor=FFFFFF&fontSize=60&desc=Computer%20Engineering%20Student%20%7C%20Motorsport%20Data%20%26%20Telemetry&descSize=20&animation=fadeIn" alt="Hugo Thibault" />
 
 # 👋 Hi there, I'm Hugo!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&width=850&lines=Computer+Engineering+Student;Cybersecurity+%26+Network+Defense;Motorsport+Telemetry+%26+Data;Building+high-performance+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&width=850&lines=Computer+Engineering+Student;Motorsport+Telemetry+Analyst;Simracing+Pro+%7C+Setup+Optimization;Cybersecurity+%26+Network+Defense)](https://git.io/typing-svg)
 
-I am a final-year **Computer Engineering** student[cite: 1] based in **Madrid, Spain** 📍[cite: 1]. My profile bridges the gap between traditional software development, cybersecurity[cite: 1], and high-stakes data analysis. With 3 years of experience as a Professional Simracing Driver[cite: 1], I specialize in extracting, reading, and interpreting continuous technical data to optimize mechanical performance[cite: 1].
+I am a final-year **Computer Engineering** student based in **Madrid, Spain** 📍. My profile bridges the gap between software development, cybersecurity, and high-stakes data analysis. With 3 years of experience as a Professional Simracing Driver, I specialize in extracting, reading, and interpreting continuous technical data to optimize physical and mechanical vehicle configurations.
 
 <p align="left">
   <a href="https://github.com/HugoThibaultM" target="_blank">
@@ -28,13 +28,13 @@ I am a final-year **Computer Engineering** student[cite: 1] based in **Madrid, S
 
 ## 🚀 About Me & Focus Areas
 
-- 🛡️ **Cybersecurity:** Certified cross-disciplinary diploma in cybersecurity[cite: 1], focusing on system integrity and secure environments.
-- 🏁 **Motorsport Data Analytics:** 3 years competing at the highest level in iRacing and Le Mans Ultimate[cite: 1]. Expert in translating raw telemetry into actionable mechanical and physical vehicle setups[cite: 1].
-- 💻 **Software Engineering:** Clean code, maintainable solutions, and rapid problem-solving under stress[cite: 1].
-- 🌍 **Bilingual Tech Profile:** Native in French and Spanish, with B2 English proficiency[cite: 1], ready for international engineering teams.
+- 🏁 **Motorsport Data Analytics:** 3 years competing at the highest level in simulators of maximum demand like iRacing, Le Mans Ultimate, and F1. Expert in maximizing lap performance through data.
+- 🛡️ **Cybersecurity:** Certified cross-disciplinary diploma in cybersecurity from Universidad Nebrija, focusing on system integrity and secure environments.
+- 💻 **Software Engineering:** Clean code, maintainable solutions, and split-second decision making under high tension and endurance events.
+- 🌍 **Bilingual Tech Profile:** Native in French and Spanish, with B2 English proficiency, ready for international engineering and racing teams.
 
 **Currently Open To:** 
-<img src="https://img.shields.io/badge/Internships-F97316?style=flat-square" /> <img src="https://img.shields.io/badge/Motorsport%20Data-EA580C?style=flat-square" /> <img src="https://img.shields.io/badge/Cybersecurity-C2410C?style=flat-square" />
+<img src="https://img.shields.io/badge/Internships-F97316?style=flat-square" /> <img src="https://img.shields.io/badge/Motorsport%20Data-EA580C?style=flat-square" /> <img src="https://img.shields.io/badge/Telemetry%20Software-C2410C?style=flat-square" />
 
 ---
 
@@ -43,11 +43,8 @@ I am a final-year **Computer Engineering** student[cite: 1] based in **Madrid, S
 **Languages & Core**  
 <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,html,css&theme=dark" />
 
-**Frontend & Backend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express&theme=dark" />
-
-**Databases, Tools & Security**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,kali,vscode,postman&theme=dark" />
+**Data, Backend & Security**  
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,linux,kali,vscode,git,github&theme=dark" />
 
 ---
 
@@ -55,26 +52,26 @@ I am a final-year **Computer Engineering** student[cite: 1] based in **Madrid, S
 
 | Skill Area | Proficiency | Focus & Details |
 | :--- | :--- | :--- |
-| **Telemetry Analysis** | Advanced | Extracting continuous technical data to maximize lap performance[cite: 1] |
-| **Decision Making** | Advanced | Split-second problem solving and stress tolerance in endurance events[cite: 1] |
-| **Python & Pandas** | Intermediate | Dataframes, transformations, calculated metrics and CSV processing |
-| **Data Visualization**| Basic/Int. | Matplotlib plotting, translating raw data into readable charts |
+| **Telemetry Analysis** | Advanced | Extracting continuous technical data to maximize lap performance |
+| **Vehicle Dynamics** | Advanced | Interpreting data to optimize physical and mechanical setups |
+| **Python & Pandas** | Intermediate | Dataframes, transformations, and processing raw telemetry CSVs |
+| **Decision Making** | Advanced | Stress tolerance and sustained concentration in endurance events |
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects (Motorsport & Data Focus)
 
-> **[Star Wars Explorer](https://github.com/HugoThibaultM/Star-Wars)**  
-> *Next.js, React, TypeScript, Axios, CSS*  
-> Frontend application built with Next.js (App Router) that consumes the Star Wars API (SWAPI) to browse films and characters. Features dynamic routes, reusable components, and search functionality.
+> **[Simracing Telemetry Dashboard (WIP)](#)**  
+> *Python, Pandas, Matplotlib, iRacing API*  
+> Data analytics project focused on processing raw telemetry data from simulators like iRacing and Le Mans Ultimate. It cleans the data and calculates performance metrics to visualize braking points, throttle application, and tire wear over endurance stints.
 
-> **[Football Data Analysis](https://github.com/HugoThibaultM/football-data-analysis)**  
-> *Python, Pandas, Matplotlib, CSV*  
-> Data analytics project focused on processing sports statistics. Applies a practical workflow: loading data, cleaning it, calculating new performance metrics, and exporting results.
+> **[Setup Optimization Analyzer](#)**  
+> *Python, Jupyter Notebooks, CSV Processing*  
+> Script designed to extract and interpret continuous technical data, comparing different vehicle configurations (aero, suspension) to highlight the optimal setup for maximizing lap performance.
 
-> **[Computer Engineering Practice](https://github.com/HugoThibaultM?tab=repositories)**  
+> **[Computer Engineering & Cybersecurity Practice](https://github.com/HugoThibaultM?tab=repositories)**  
 > *Java, Python, C++, MySQL, Linux*  
-> A collection of academic projects reflecting my learning process across different areas of Computer Engineering[cite: 1], from algorithms and data structures to database design and systems architecture.
+> A collection of academic projects reflecting my learning process in Computer Engineering at Universidad Antonio de Nebrija, including database design, algorithms, and cybersecurity principles.
 
 ---
 
