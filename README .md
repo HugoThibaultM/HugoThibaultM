@@ -30,13 +30,6 @@
 
 <div align="center">
 
-  <a href=>
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
-
-  <a href= target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
 
   <a href="https://github.com/HugoThibaultM" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-HugoThibaultM -111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
@@ -347,21 +340,6 @@ Además, dependen de servicios externos que a veces fallan o tardan en cargar.
 
 <h2 align="center">Contact</h2>
 
-<br>
-
-<div align="center">
-
-  <a href>
-    <img src="https://img.shields.io/badge/raulletradomontes@gmail.com-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
-
-<br><br>
-
-  <a href_blank">
-    <img src="https://img.shields.io/badge/Raúl%20Letrado-4F46E5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
-
-<br><br>
 
   <a href="https://github.com/HugoThibaultM" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Raaul04-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
