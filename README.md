@@ -4,7 +4,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:312E81,70:7C3AED,100:2563EB&text=Hugo%20Thibault&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Data%20and%20AI&descSize=18&descAlignY=56&animation=fadeIn"
     alt="Hugo Thibault"
   />
-</p>
+</p> 
 
 <div align="center">
 
