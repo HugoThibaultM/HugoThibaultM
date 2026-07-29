@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0F172A,35:312E81,70:7C3AED,100:2563EB&amp;text=Ra%C3%BAl%20Letrado&amp;fontColor=FFFFFF&amp;fontSize=64&amp;fontAlignY=36&amp;desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Data%20and%20AI&amp;descSize=18&amp;descAlignY=56&amp;animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:312E81,70:7C3AED,100:2563EB&text=Hugo%20Thibault&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Data%20and%20AI&descSize=18&descAlignY=56&animation=fadeIn"
     alt="Hugo Thibault"
   />
 </p>
@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
- src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Computer+Engineering+Student;Software+Engineering;Full+Stack+Development;Data+Analytics+and+AI;Learning+by+Building"
+ src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Software+Engineering;Full+Stack+Development;Data+Analytics+and+AI;Learning+by+Building"
  alt="Typing SVG"
 />
 
@@ -19,10 +19,10 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Focused-4F46E5?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20%26%20AI-Learning-2563EB?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Madrid-Spain-9333EA?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Focused-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20%26%20AI-Learning-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Madrid-Spain-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
@@ -30,16 +30,13 @@
 
 <div align="center">
 
-
   <a href="https://github.com/HugoThibaultM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HugoThibaultM -111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-HugoThibaultM-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
 
 <br>
-
-
 
 ---
 
@@ -59,13 +56,13 @@
 
 <div align="center">
 
-| Focus Area           | Description                                                     |
-| --------------------- | ----------------------------------------------------------------- |
-| Software Engineering | Clean code, maintainable solutions and problem solving          |
-| Frontend Development | React, TypeScript, Vite and Next.js                             |
-| Backend Development  | Node.js, Express, APIs and databases                            |
-| Data &amp; AI            | Python, data analysis, automation and applied AI                |
-| Systems Thinking     | Linux, networks, distributed systems and real-world engineering |
+| Focus Area           | Description                                                        |
+| -------------------- | ------------------------------------------------------------------ |
+| Software Engineering | Clean code, maintainable solutions and problem solving             |
+| Frontend Development | React, TypeScript, Vite and Next.js                                |
+| Backend Development  | Node.js, Express, APIs and databases                               |
+| Data & AI            | Python, data analysis, automation and applied AI                   |
+| Systems Thinking     | Linux, networks, distributed systems and real-world engineering    |
 
 </div>
 
@@ -93,7 +90,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,html,css&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,html,css&theme=dark" />
 
 </div>
 
@@ -103,17 +100,17 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite&theme=dark" />
 
 </div>
 
 <br>
 
-<h3 align="center">Backend &amp; Databases</h3>
+<h3 align="center">Backend & Databases</h3>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql&theme=dark" />
 
 </div>
 
@@ -123,7 +120,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
 
 </div>
 
@@ -133,13 +130,13 @@
 
 <div align="center">
 
-| Area            | Level                | Details                                                       |
-| --------------- | --------------------- | ---------------------------------------------------------------- |
-| Python for Data | Intermediate         | Data cleaning, CSV processing and basic analytics             |
-| Pandas          | Intermediate         | Dataframes, transformations and calculated metrics            |
-| Matplotlib      | Basic / Intermediate | Data visualization and simple charts                          |
-| Applied AI      | Learning             | Practical use of AI tools for problem solving and development |
-| Automation      | Learning             | Scripts and workflows to reduce manual work                   |
+| Area            | Level                | Details                                                          |
+| --------------- | -------------------- | ---------------------------------------------------------------- |
+| Python for Data | Intermediate         | Data cleaning, CSV processing and basic analytics                |
+| Pandas          | Intermediate         | Dataframes, transformations and calculated metrics               |
+| Matplotlib      | Basic / Intermediate | Data visualization and simple charts                             |
+| Applied AI      | Learning             | Practical use of AI tools for problem solving and development    |
+| Automation      | Learning             | Scripts and workflows to reduce manual work                      |
 
 </div>
 
@@ -150,7 +147,7 @@
 <br>
 
 <details>
-<summary><b>Star Wars Explorer — Next.js &amp; TypeScript Web Application</b></summary>
+<summary><b>Star Wars Explorer — Next.js & TypeScript Web Application</b></summary>
 
 <br>
 
@@ -158,12 +155,12 @@ Frontend application built with Next.js (App Router) that consumes the Star Wars
 
 <br>
 
-| Category   | Details                                                                     |
+| Category   | Details                                                                       |
 | ---------- | ----------------------------------------------------------------------------- |
-| Stack      | Next.js, React, TypeScript, Axios, CSS                                      |
-| Goal       | Consume the Star Wars API (SWAPI) and display dynamic content                |
-| Learning   | Next.js App Router, dynamic routes, components and HTTP requests with Axios  |
-| Repository | <a href="https://github.com/Raaul04/Star-Wars" target="_blank">View repository</a> |
+| Stack      | Next.js, React, TypeScript, Axios, CSS                                        |
+| Goal       | Consume the Star Wars API (SWAPI) and display dynamic content                 |
+| Learning   | Next.js App Router, dynamic routes, components and HTTP requests with Axios   |
+| Repository | <a href="https://github.com/HugoThibaultM/Star-Wars" target="_blank">View repository</a> |
 
 <br>
 
@@ -182,12 +179,12 @@ Data analysis project focused on processing football player statistics, calculat
 
 <br>
 
-| Category   | Details                                                                     |
+| Category   | Details                                                                       |
 | ---------- | ----------------------------------------------------------------------------- |
-| Stack      | Python, Pandas, Matplotlib, CSV                                             |
-| Goal       | Analyze sports data and calculate performance indicators                    |
-| Learning   | Data cleaning, new metrics, sorting and CSV export                          |
-| Repository | <a href="https://github.com/Raaul04/football-data-analysis">View repository</a> |
+| Stack      | Python, Pandas, Matplotlib, CSV                                               |
+| Goal       | Analyze sports data and calculate performance indicators                      |
+| Learning   | Data cleaning, new metrics, sorting and CSV export                            |
+| Repository | <a href="https://github.com/HugoThibaultM/football-data-analysis">View repository</a> |
 
 <br>
 
@@ -206,13 +203,13 @@ Academic projects related to web development, programming, databases, systems an
 
 <br>
 
-| Area       | Technologies                                                                |
+| Area       | Technologies                                                                  |
 | ---------- | ----------------------------------------------------------------------------- |
-| Frontend   | React, TypeScript, Next.js                                                  |
-| Backend    | Node.js, Express, Java                                                      |
-| Data       | Python, Pandas, MySQL, MongoDB                                              |
-| Systems    | Linux, networks and distributed systems                                     |
-| Repository | <a href="https://github.com/Raaul04?tab=repositories">View repositories</a> |
+| Frontend   | React, TypeScript, Next.js                                                    |
+| Backend    | Node.js, Express, Java                                                        |
+| Data       | Python, Pandas, MySQL, MongoDB                                                |
+| Systems    | Linux, networks and distributed systems                                       |
+| Repository | <a href="https://github.com/HugoThibaultM?tab=repositories">View repositories</a> |
 
 <br>
 
@@ -228,13 +225,13 @@ These projects reflect my learning process across different areas of Computer En
 
 <div align="center">
 
-| Topic              | Objective                                               |
+| Topic               | Objective                                                  |
 | ------------------- | ---------------------------------------------------------- |
-| React &amp; TypeScript | Build better structured frontend applications           |
-| Next.js            | Develop modern full stack web applications              |
-| Python &amp; Data      | Apply data analysis to real-world use cases             |
-| GraphQL            | Understand modern API consumption                       |
-| Applied AI         | Use artificial intelligence to solve practical problems |
+| React & TypeScript  | Build better structured frontend applications              |
+| Next.js             | Develop modern full stack web applications                 |
+| Python & Data       | Apply data analysis to real-world use cases                |
+| GraphQL             | Understand modern API consumption                          |
+| Applied AI          | Use artificial intelligence to solve practical problems    |
 
 </div>
 
@@ -248,7 +245,7 @@ These projects reflect my learning process across different areas of Computer En
 
 <img
  height="170"
- src="https://github-readme-stats.vercel.app/api?username=Raaul04&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=7C3AED&amp;text_color=E5E7EB"
+ src="https://github-readme-stats.vercel.app/api?username=HugoThibaultM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB"
  alt="GitHub Stats"
 />
 
@@ -260,7 +257,7 @@ These projects reflect my learning process across different areas of Computer En
 
 <img
  height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaul04&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=E5E7EB"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoThibaultM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB"
  alt="Top Languages"
 />
 
@@ -334,9 +331,10 @@ Además, dependen de servicios externos que a veces fallan o tardan en cargar.
 
 <h2 align="center">Contact</h2>
 
+<div align="center">
 
   <a href="https://github.com/HugoThibaultM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HugoThibaultM-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-HugoThibaultM-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
@@ -355,7 +353,7 @@ Además, dependen de servicios externos que a veces fallan o tardan en cargar.
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;section=footer&amp;color=0:2563EB,35:7C3AED,70:6D28D9,100:0F172A"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563EB,35:7C3AED,70:6D28D9,100:0F172A"
     alt="Footer"
   />
 </p>
