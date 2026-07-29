@@ -39,13 +39,7 @@
 
 <br>
 
-<div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Raaul04&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Raaul04?label=Followers&amp;style=flat-square&amp;color=4f46e5" />
-  <img src="https://img.shields.io/github/stars/Raaul04?label=Stars&amp;style=flat-square&amp;color=2563eb" />
-
-</div>
 
 ---
 
