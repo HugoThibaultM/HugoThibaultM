@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://github.com/HugoThibaultM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Raaul04-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-HugoThibaultM -111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 
 </div>
