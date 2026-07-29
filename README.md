@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:111827,50:EA580C,100:F97316&amp;text=Hugo%20Thibault&amp;fontColor=FFFFFF&amp;fontSize=60&amp;desc=Computer%20Engineering%20Student%20%7C%20Software%20and%20Data&amp;descSize=20&amp;animation=fadeIn" alt="Hugo Thibault" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:111827,50:EA580C,100:F97316&amp;text=Hugo%20Thibault&amp;fontColor=FFFFFF&amp;fontSize=60&amp;fontAlignY=36&amp;desc=Computer%20Engineering%20Student%20%7C%20Software%20and%20Data&amp;descSize=20&amp;descAlignY=56&amp;animation=fadeIn" alt="Hugo Thibault" />
 </p>
 # 👋 Hi there, I'm Hugo!
 
